@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>My APP SATU</h1>
+    <h2>My APP DUA</h2>
 </body>
 </html>
